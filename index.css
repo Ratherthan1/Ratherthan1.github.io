@@ -233,3 +233,11 @@ a {
   color: black;
 }
 
+#changetoorange {
+  color: #e69500;
+}
+
+#changetowhite {
+  color: white;
+  font-size: 25px;
+}
