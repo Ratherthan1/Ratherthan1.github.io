@@ -16,6 +16,10 @@ body {
   font-family: Nunito;
 }
 
+#titleparagraph {
+  color: white;
+}
+
 h1 {
   font-size: 250%
 }
