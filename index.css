@@ -18,6 +18,11 @@ body {
 
 #titleparagraph {
   color: white;
+  font-size: 24px;
+}
+
+#qualitycolororange {
+  color: rgb(224, 146, 0);
 }
 
 h1 {
